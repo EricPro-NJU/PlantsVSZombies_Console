@@ -28,5 +28,5 @@ Thank all the teachers and assisstants in the course "Advanced Programing" for h
 
 ### More Details
 
-All codes and resources are available in `/codes`.
+All codes and resources are available in `/src`.
 
